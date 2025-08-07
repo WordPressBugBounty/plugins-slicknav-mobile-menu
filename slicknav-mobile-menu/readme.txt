@@ -1,10 +1,10 @@
-=== Plugin Name ===
+=== SlickNav Mobile Menu ===
 
 Contributors: neilgee
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=neil%40wpbeaches%2ecom&lc=AU&item_name=WP%20Beaches&item_number=Plugins&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tags: mobile, menu, responsive, aria, accessible, graceful, submenu, multi-level
+Tags: mobile, menu, responsive, aria, accessible
 Requires at least: 4.0
-Tested up to: 6.4
+Tested up to: 6.8
 Stable tag: 1.9.3
 Plugin Name: SlickNav Mobile Menu
 Plugin URI: http://wpbeaches.com
